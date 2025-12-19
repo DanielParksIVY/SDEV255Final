@@ -1,0 +1,1 @@
+const API_BASE = "https://REPLACE_WITH_BACKEND_URL";
